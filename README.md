@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuzamilJillani
-- 👀 I’m interested in DataScience, Python, SQL 
-- 🌱 I’m currently learning BigData
-- 💞️ I’m looking to collaborate on DataScience and ML projects
+- 👀 I’m interested in Web Development Technologies
+- 🌱 I’m currently learning Web3
+- 💞️ I’m looking to collaborate on Web3 and BlockChain projects
 - 📫 How to reach me on linkedin @muzamil-jillani-31a0b01ab
 
 <!---
